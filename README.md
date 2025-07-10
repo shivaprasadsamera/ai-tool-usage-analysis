@@ -9,7 +9,7 @@ An end-to-end data analysis project exploring the usage of generative AI tools a
 - [Project Overview](#project-overview)
 - [Dataset](#dataset)
 - [Key Objectives](#key-objectives)
-- [Technologies Used](#technologies-used)
+- [Technologies Used](#-technologies-used)
 - [Data Analysis Workflow](#data-analysis-workflow)
 - [Visualizations & Insights](#visualizations--insights)
 - [Results Summary](#results-summary)
